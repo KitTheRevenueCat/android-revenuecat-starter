@@ -1,0 +1,7 @@
+## RevenueCat API Key
+## Get your key from https://app.revenuecat.com → Project Settings → API Keys
+## Use the Google Play (Android) public SDK key (starts with goog_)
+REVENUECAT_API_KEY=goog_your_key_here
+
+## Android SDK location (set automatically by Android Studio)
+# sdk.dir=/Users/you/Library/Android/sdk

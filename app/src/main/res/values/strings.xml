@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RevenueCat Starter</string>
+    <string name="home_title">Welcome</string>
+    <string name="premium_badge">⭐ Premium</string>
+    <string name="upgrade_button">Upgrade to Premium</string>
+    <string name="restore_button">Restore Purchases</string>
+    <string name="paywall_title">Choose a Plan</string>
+    <string name="purchase_button">Subscribe</string>
+    <string name="loading">Loading…</string>
+    <string name="error_retry">Retry</string>
+</resources>
